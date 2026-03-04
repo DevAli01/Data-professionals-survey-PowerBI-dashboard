@@ -42,8 +42,8 @@ The dataset shows a relatively balanced gender salary distribution within roles.
 
 📂 Files Included
 
-Data Professionals Survey Breakdown.pbix
+Data Professionals Survey.pbix
 
-project_screenshot.jpg
+project Professionals Survey.jpg
 
 ![data professionals survey](https://github.com/user-attachments/assets/ced43262-20ff-4bc5-8b23-e2824be8a9cd)
